@@ -3,7 +3,7 @@ import os  # Unused import
 def some_function():  # Missing docstring
     x = 5
     if x > 3:
-        y = "Hello"
+        y = "Bye"
         print(y)
     return x
 
